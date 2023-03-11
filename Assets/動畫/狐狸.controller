@@ -156,13 +156,13 @@ AnimatorController:
   m_Name: "\u72D0\u72F8"
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: "\u89F8\u767C\u653B\u64CA"
+  - m_Name: "\u89F8\u767C\u8DD1"
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
-  - m_Name: "\u89F8\u767C\u8DD1"
+  - m_Name: "\u89F8\u767C\u653B\u64CA"
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
